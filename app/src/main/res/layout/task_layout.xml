@@ -16,7 +16,7 @@
             android:id="@+id/todoCheckBox"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:buttonTint="#4CAF50"
+            android:buttonTint="#FF03DAC5"
             android:paddingStart="8dp"
             android:text="This is an sample task inside the application" />
     </RelativeLayout>
